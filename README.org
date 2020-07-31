@@ -121,6 +121,12 @@ you through setting everything up.
 
 
 * Assignments:
+
+*PRO TIP:* Do not copy and paste code from either online sources or
+earlier assignments. Type it in. This will help you remember the Java
+constructs and will make later sections of the program easier.
+
+
 1. Assignment 1 - Hello world! - [[./pre01.org][link]]
 2. Assignment 2 - Data types - [[./pre02.org][link]]
 3. Assignment 3 - Void methods - [[./pre03.org][link]]
