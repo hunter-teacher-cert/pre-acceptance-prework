@@ -134,4 +134,4 @@ constructs and will make later sections of the program easier.
 4. Assignment 5 - Value methods - [[./pre05.org][link]]
 5. Assignment 6 - Loops  - [[./pre06.org][link]]
 4. Assignment 7 - Arrays - [[./pre07.org][link]]
-7. Assignment 8 - Final project - [[./pre05.org][link]]
+7. Assignment 8 - Final project - [[./pre08.org][link]]
