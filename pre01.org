@@ -17,8 +17,8 @@ and then to this new repo). clone by doing the following:
 3. Clone the repo using the *ssh* option.
 4. Edit the README.org file by adding your name and GitHub user name.
 5. Save the file
-6.  ~git commit README.org -m "added names" ~ 
-7.  ~git push~ 
+6. ~git commit README.org -m "added names"
+7. ~git push~ 
 
 * Every time Setup
 
