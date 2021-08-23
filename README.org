@@ -102,7 +102,7 @@ When all else fails you can always do the following:
 * Accept the GitHub Classroom assignment link
 
 - Follow this link to create your assignment
-  repository: [[https://classroom.github.com/a/BKJdJVBT][link]]
+  repository: [[https://classroom.github.com/a/fzbFMm9t][link]]
 
 
 This will create a GitHub repository that you will use to submit your
