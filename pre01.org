@@ -26,7 +26,7 @@ and then to this new repo). clone by doing the following (you may have already d
 
 * Assignment
 
-1. Click on the *new folder* icon from the file tree section of repl and add a folder named *01*
+1. Click on the *new folder* icon from the file tree section of repl and add a folder named *pre01*
 2. Click on that folder and create a new file under it named *Hello.Java*
    - Note: if you place the folder in the wrong location you can either drag and drop it or delete by clicking on it in the file tree and selecting delete and then creating a new file.
 4. Click on the file *Hello.java* and add the following contents:
