@@ -9,75 +9,70 @@ Link to assignment walkthrough video: [[https://youtu.be/Owqp3MIZG9E][link]]
 
 
 Once finished, click on the repo link (or go to your GitHub account
-and then to this new repo). clone by doing the following:
+and then to this new repo). clone by doing the following (you may have already done this by following the video and instructions on the main page) :
 
-1. open a terminal
-2. switch to the directory under which you want to clone the
-   repository. I recommend your Desktop if you're using Windows. 
-3. Clone the repo using the *ssh* option.
-4. Edit the README.org file by adding your name and GitHub user name.
-5. Save the file
-6. ~git commit README.org -m "added names"
-7. ~git push~ 
+1. Log in to [[https://repl.it][repl.it]] using GitHub (see material and video on main page if you need assistance)
+2. click on the *+ create repl" button
+3. click on the *import from GitHub* button
+4. Type in the full name of your repo (something like hunter-teacher-cert/applicants-prework-for-cohort-3-githubusername)
 
-* Every time Setup
 
-Make sure this repo is up to date by:
-1. opening a terminal
-2. Switching directories (folders) to the assignments repo
-3. Run the ~git pull~ command.
+* Every time you work
 
-Set up the directory for the assignment.
-1. Make a new folder named pre01 under the assignment repo by:
-   1. Make sure you're in the assignments repo directory (folder)
-   2. type ~mkdir pre01~ *note: all lower case letters*
-   3. Move into that folder
+1. Log into repl.it using GitHUb
+2. Open this repl
+3. click on the version control button and if it says you need updates from GitHub, click the button
+
 
 * Assignment
 
-You are going to write your first Java program. Open your editor
-(notepad++, gedit, other) and create a file named *Hello.java*. Note
-that the *H* is upper case. In that file, write and save this program:
+1. Click on the *new folder* icon from the file tree section of repl and add a folder named *01*
+2. Click on that folder and create a new file under it named *Hello.Java*
+   - Note: if you place the folder in the wrong location you can either drag and drop it or delete by clicking on it in the file tree and selecting delete and then creating a new file.
+4. Click on the file *Hello.java* and add the following contents:
 
-#+begin_src java
-  import java.io.*;
-  import java.util.*;
+ #+begin_src java
+   import java.io.*;
+   import java.util.*;
 
-  public class Hello {
-      public static void main(String[] args){
-          System.out.println("Hello world!");
-      }
-  }
-#+end_src
+   public class Hello {
+       public static void main(String[] args){
+           System.out.println("Hello world!");
+       }
+   }
+ #+end_src
 
-Now, from the terminal run the ~ls~ (Linux, Mac, GitBash) or ~dir~
-(windows cmd) command. Note that your directory should have one file
-named ~Hello.java~. 
+5. From the right hand pane on repl.it click the "shell" tab. You should see the area below set up as a terminal where you can type.
+6. Type *ls* and hit enter. *ls* is a command that lists the contents of a folder or directory
+   You should see README.org and 01 listed and maybe some other files or folders.
+7. Type *cd 01* and hit enter. This will move the shell into the *01* folder. 
+8. Type *ls* and hit enter. You should see *Hello.java* listed.
 
-To compile Hello.java into Java Byte Code that can be run by the Java
-Virtual Machine, type ~javac Hello.java~. If the prompt comes back
-with no errors, everything worked. If you see any errors, read them
-carefully and try to fix your program. Repeat until your program
-compiles. 
+Now you can compile the program *Hello.java* by typing *javac Hello.java* and hiting enter. If you see any errors, fix them by editing the program. If the error is "file not found" make sure the terminal is in the right folder by typing the *pwd* command and hitting enter. You can cd back to the main directory/folder by typign *cd* and hitting enter and then go back into 01 with *cd 01* as before.
 
-Look at the files in the directory again (ls, dir) and you'll see an
-additional file named ~Hello.class~ - this is the compiled Java Byte
-Code that can be run. Now run your program by typing ~java Hello~.
+If you don't get errors type *ls* and you should see a new file naemd *Hello.class*. This is the Java bytcode file that you can run under the Java virtual machine. 
 
-Congratulations!!!!
+To run your program, type *java Hello* - note that you don't add the .class, it's just Hello. 
+
+If everyting works, you should see *Hello World!* on the screen. If not, try to fix your errors.
+
 
 Put an error in your program - remove a quote or a bracket and
 recompile using ~javac Hello.java~ - read the error. Fix it and try to
 generate another error. Finally fix and text the program again so that
 it works.
 
-As a final step, add the program to git using the sequence:
+As a final step, yuou have to push the code back up to GitHub
 
-#+begin_src bash
-git add Hello.java
-git commit Hello.java -m "added my first Java program"
-git push
-#+end_src
+1. Click the version control button on the right.
+2. Add a message saying what you changed.
+3. click the commit and push button
+4. Go to GitHub and look to make sure your new program is there.
+
+Congratulations!!!!!!
+
+You just wrote your first Java program.
+
 
 References for this assignment:
 | Reference        | Chapter(s)   |
