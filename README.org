@@ -2,115 +2,36 @@
 
 ** Set up your environment
 
-1. First install the Java Development Kit. Here are videos stepping
-   you through the process:
+We will be using the following tools for the workshops and first courses in the program. 
 
-   - [[https://youtu.be/l6AQNTqSDS8][Windows 10]]
-   - [[https://youtu.be/jIBHjaW0OtY][Mac]]
-   - [[https://youtu.be/dAVbMIe7UJA][Linux]]
+1. Git and GitHub
+2. Repl.it as a Java programming environment
 
-2. Set up git and GitHub. 
-   - *Linux* - git should be installed. If it isn't and you're using
-     Ubuntu you can install it by runing ~sudo apt-get install git~
-     from the terminal.
-   - *Mac* - git should be installed already 
-   - *Windows*  - follow the instructions in this [[https://youtu.be/chKaJBJYlAE][video]](). 
+This video will walk you through setting up the environment and getting started with the prework.
 
-3. Set up GitHub ssh keys.
-
-   Follow this video walkthrough: [[https://youtu.be/AUFFudCXo0M][video]]
+Additionally, if you have never programmed in a text based language like Java, we *strongly* recommend participating in our pre-application workshops. 
 
 
-* Learn the basics of Git and GitHub
+[[https://www.youtube.com/watch?v=jMpuAK4YCbQ][Setup Video]]
 
-There are tons of git and GitHub resources on the web including
-videos, tutorials and more.
-Start by watching this video on what git and GitHub are: [[https://www.youtube.com/watch?v=r50BKIFGCI0][link]]
-Then watch this this video on how we'll use git and GitHub: [[https://youtu.be/b_bhCJn9xcc][link]]
+The above video covers these steps.
 
-Then if things aren't clear, just search for git and GitHub
-tutorials - there are tons online.
+1. Go to [[https://github.com][GitHub]] and create an account
+2. Follow this link to accept the prework assignment: [[https://www.youtube.com/watch?v=jMpuAK4YCbQ][https://www.youtube.com/watch?v=jMpuAK4YCbQ]]. After accepting the assignment and waiting aminute you'll be able to reload the page and get to the GitHub repository for the assignment. *Bookmark this page*
+3. Set up repl.it
+  1. Go to [[https://repl.it][repl.it]] and sign up *using GitHub*. There will be a link for this underneath the username and password boxes.
+  2. Click on *+ Create Repl* button.
+  3. Click on the *Import from GitHub* button on the upper left of the dialog.
+  4. Type in the full GitHub repo name (it should be hunter-teacher-cert/applicants-prework-for-cohort-3-githubname or something similar) and click the *+ import from GitHub button
+4. After a minute you should see that you have a repl that is linked to your GitHub repo. Watch the video above to see how to set up the language and if you have issues, please email mz631@hunter.cuny.edu.
+5. Follow the video to see how to use the version control button to synchronise repl.it and github.
 
-** Essential commands
+* Workflow
 
-Note that the descriptions here refer to how we're using these
-commands. Some of them do far more than what's described.
+1. Whenever you sit down to repl.it, click on the version control button to make sure everything is up to date.
+2. After creating and editing new files, click on the version control button and commit and push the changes to github by first typing in a logging message in the message box and the clicking the commit and push button. Confirm everything is in sync by viewing both the repl.it and github web sites.
 
-| Command  | Description                        | Example                      |
-|----------+------------------------------------+------------------------------|
-| clone    | make a local copy of a remote repo | git clone repoaddress        |
-| add      | adds a file to the repository      | git add Hello.java           |
-| rm       | removes / deletes a file           | git rm Hello.java            |
-| mv       | rename / move a file               | git mv oldname newname       |
-| commit   | record changes to the local repo   | git commit file -m "message" |
-| push     | Push pending changes to GitHub     | git push                     |
-| pull     | Retrieve newer changes from GitHub | git pull                     |
-| reset    | unstage a commit                   | git reset filename           |
-| checkout | revert a file to last commit       | git checkout filename        |
-
-** Workflow
-*** do once
-- ~git clone~ to make a local copy of a GitHub repo
-*** do periodically
-- ~git add~ when you are adding a new file
-- ~git rm~ when you're deleting a file
-- ~git mv~ when you need to move or rename a file
-*** Typical day to day flow.
-- when you start: change into the repo directory and issue a ~git pull~
-- as you work
-  - ~git commit~ frequently
-  - ~git push~ periodically
-  - use the above periodic commands when the situation arises
-- when you're done
-  - a final ~git push~
-
-** When you get a merge conflict
-
-Sometimes when you try to commit your changes git will give you an
-error and say you have to resolve a merge conflict manually. This
-sounds scary but it's pretty easy.
-
-First, edit the file in question. You'll see something like the
-following:
-
-#+begin_example
-<<<<<<< HEAD
-echo "Hello World!"
-hello hello
- worddddddddd
-=======
-echo "Hello World"
->>>>>>> newbranch
-#+end_example
-
-Look for the sections with the *>>>>>>>>*, *=======*, and *<<<<<*
-sections. These represent the two versions git is trying to
-merge. Just edit the file manually to make it look the way you want. 
-
-Then save the file. Repeat this with any other files that have merge
-conflicts and then complete the commit.
-
-** Remember when all else fails
-
-When all else fails you can always do the following: 
-1. Rename the folder/directory with the repository
-2. Clone a new local copy
-3. Copy over anything you need from the old renamed copy
-4. continue working in the new copy
-
-
-* Accept the GitHub Classroom assignment link
-
-- Follow this link to create your assignment
-  repository: [[https://classroom.github.com/a/fzbFMm9t][link]]
-
-
-This will create a GitHub repository that you will use to submit your
-assignments. The video under prework assignment 1 below will step
-you through setting everything up.  
-
-
-
+See the assgignment section after the Java resources for the specific prework assignments.
 
 * Java resources
 
