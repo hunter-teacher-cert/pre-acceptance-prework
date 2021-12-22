@@ -26,16 +26,26 @@ Additionally, if you have never programmed in a text based language like Java, w
 The above video covers these steps.
 
 1. Go to [[https://github.com][GitHub]] and create an account
-2. Follow this link to accept the prework assignment: [[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]] After accepting the assignment
-and waiting aminute you'll be able to reload the page and get to the
-GitHub repository for the assignment. *Bookmark this page*
+2. Follow this link to accept the prework assignment:
+   [[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]].
+
+   After accepting the assignment and waiting aminute you'll be able
+   to reload the page and get to the GitHub repository for the
+   assignment. *Bookmark this page*
+   
 3. Set up repl.it
-  1. Go to [[https://repl.it][repl.it]] and sign up *using GitHub*. There will be a link for this underneath the username and password boxes.
+  1. Go to [[https://repl.it][repl.it]] and sign up *using GitHub*. There will be a link
+     for this underneath the username and password boxes.
   2. Click on *+ Create Repl* button.
-  3. Click on the *Import from GitHub* button on the upper left of the dialog.
-  4. Type in the full GitHub repo name (it should be hunter-teacher-cert/applicants-prework-for-cohort-3-githubname or something similar) and click the *+ import from GitHub button
-4. After a minute you should see that you have a repl that is linked to your GitHub repo. Watch the video above to see how to set up the language and if you have issues, please email mz631@hunter.cuny.edu.
-5. Follow the video to see how to use the version control button to synchronise repl.it and github.
+  3. Click on the *Import from GitHub* button on the upper left of the
+     dialog.
+  4. Type in the full GitHub repo name (it should be
+     hunter-teacher-cert/applicants-prework-for-cohort-3-githubname or
+     something similar) and click the *+ import from GitHub button
+4. After a minute you should see that you have a repl that is linked
+   to your GitHub repo. 
+5. Follow the video to see how to use the version control button to
+   synchronise repl.it and github.
 
 * Workflow
 
