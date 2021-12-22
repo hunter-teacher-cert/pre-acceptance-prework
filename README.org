@@ -26,8 +26,7 @@ Additionally, if you have never programmed in a text based language like Java, w
 The above video covers these steps.
 
 1. Go to [[https://github.com][GitHub]] and create an account
-2. Follow this link to accept the prework assignment:
-[[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]] After accepting the assignment
+2. Follow this link to accept the prework assignment: [[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]] After accepting the assignment
 and waiting aminute you'll be able to reload the page and get to the
 GitHub repository for the assignment. *Bookmark this page*
 3. Set up repl.it
