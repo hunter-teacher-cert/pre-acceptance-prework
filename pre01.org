@@ -30,13 +30,16 @@ Link to assignment walkthrough video:
    }
  #+end_src
 
-5. From the right hand pane on repl.it click the "shell" tab. You should see the area below set up as a terminal where you can type.
-6. Type *ls* and hit enter. *ls* is a command that lists the contents of a folder or directory
-   You should see README.org and 01 listed and maybe some other files or folders.
-7. Type *cd 01* and hit enter. This will move the shell into the *01* folder. 
+5. From the right hand pane on repl.it click the "shell" tab. You
+   should see the area below set up as a terminal where you can type.
+6. Type *ls* and hit enter. *ls* is a command that lists the contents
+   of a folder or directory You should see README.org and pre01 listed
+   and maybe some other files or folders.
+7. Type *cd pre01* and hit enter. This will move the shell into the *pre01*
+   folder.
 8. Type *ls* and hit enter. You should see *Hello.java* listed.
 
-Now you can compile the program *Hello.java* by typing *javac Hello.java* and hiting enter. If you see any errors, fix them by editing the program. If the error is "file not found" make sure the terminal is in the right folder by typing the *pwd* command and hitting enter. You can cd back to the main directory/folder by typign *cd* and hitting enter and then go back into 01 with *cd 01* as before.
+Now you can compile the program *Hello.java* by typing *javac Hello.java* and hiting enter. If you see any errors, fix them by editing the program. If the error is "file not found" make sure the terminal is in the right folder by typing the *pwd* command and hitting enter. You can cd back to the main directory/folder by typign *cd* and hitting enter and then go back into pre01 with *cd pre01* as before.
 
 If you don't get errors type *ls* and you should see a new file naemd *Hello.class*. This is the Java bytcode file that you can run under the Java virtual machine. 
 
