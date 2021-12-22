@@ -10,6 +10,9 @@ References for this assignment:
 
 Read chapters 2 and three from [[https://books.trinket.io/thinkjava][Think Java]].
 
+This video covers a subset of the material in the chapter but may be
+helpful: [[https://www.youtube.com/watch?v=l6Q6BVfnCI0&list=PL9KxKa8NpFxJQG8NhHYHIdRBQbn0PH5qV&index=2][link]]
+
 This section deals with basic data types. Java differs from Python and
 Javascript in that you have to declare variables before you use them
 and in that declaration tell the compiler what type of data they'll
@@ -46,9 +49,13 @@ Read the chapters for details. You can also find more information in
 the other supplemental materials linked on the prework page.
 
 * For submission
-Complete Exercise 2 and 3  from section 2.12 of [[https://books.trinket.io/thinkjava][Think Java]]
-Also complete any one of the programming exercises from section 3.12
-of [[https://books.trinket.io/thinkjava][Think Java]]
-Add the ~.java~ files for your solutions to the assignment repo
-under a folder named ~pre02~ and push them up to GitHub.
+Place all of these in a folder named ~pre02~
 
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
+
+| Chapter/section | Exercise | Filename     |
+|-----------------+----------+--------------|
+|            2.12 |        2 | Date.java    |
+|            2.12 |        3 | Time.java    |
+|            3.12 |        2 | Celsius.java |
+|            3.12 |        4 | Guess.java   |

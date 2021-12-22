@@ -95,7 +95,16 @@ public static void m(int a, String b){
 
 #+end_src
 
-* Submission
+* For submission
+Place all of these in a folder named ~pre03~
+
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
+
+| Chapter/section | Exercise | Filename       |
+|-----------------+----------+----------------|
+|            4.11 |        1 | See note below |
+
+** Note:
 
 Complete exercise 1 from Chapter 4 of Think Java. Either type up your
 answer in a file named answer.txt or write it by hand and scan it into

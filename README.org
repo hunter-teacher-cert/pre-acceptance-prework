@@ -14,7 +14,9 @@ We will be using the following tools for the workshops and first courses in the 
 1. Git and GitHub
 2. Repl.it as a Java programming environment
 
-This video will walk you through setting up the environment and getting started with the prework.
+This video will walk you through setting up the environment and
+getting started with the prework.
+
 
 Additionally, if you have never programmed in a text based language like Java, we *strongly* recommend participating in our pre-application workshops. 
 
@@ -24,7 +26,10 @@ Additionally, if you have never programmed in a text based language like Java, w
 The above video covers these steps.
 
 1. Go to [[https://github.com][GitHub]] and create an account
-2. Follow this link to accept the prework assignment: [[https://www.youtube.com/watch?v=jMpuAK4YCbQ][https://www.youtube.com/watch?v=jMpuAK4YCbQ]]. After accepting the assignment and waiting aminute you'll be able to reload the page and get to the GitHub repository for the assignment. *Bookmark this page*
+2. Follow this link to accept the prework assignment:
+[[https://classroom.github.com/a/o_CKiCM7][https://classroom.github.com/a/o_CKiCM7]] After accepting the assignment
+and waiting aminute you'll be able to reload the page and get to the
+GitHub repository for the assignment. *Bookmark this page*
 3. Set up repl.it
   1. Go to [[https://repl.it][repl.it]] and sign up *using GitHub*. There will be a link for this underneath the username and password boxes.
   2. Click on *+ Create Repl* button.
@@ -49,6 +54,17 @@ See the assgignment section after the Java resources for the specific prework as
 
 
 * Assignments:
+
+*IMPORTANT GRADING NOTE:*
+
+Some of the exercises in the prework will be simple and some will be
+very challenging. While we expect you to attempt all of them you might
+not complete every single one of them.
+
+We have added some challenge problems so that you can stretch yourself
+but so long as you show expertise in each main concept you won't be
+penalized for missing an exercise or two here or there.
+
 
 *PRO TIP:* Do not copy and paste code from either online sources or
 earlier assignments. Type it in. This will help you remember the Java

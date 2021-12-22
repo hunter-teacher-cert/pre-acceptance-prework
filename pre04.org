@@ -54,7 +54,20 @@ A Python *if* is similar but different due to its use of indentation
 instead of brackets and the explicit elif as opposed to the Java ~else
 if~.
 
+* For submission
+Place all of these in a folder named ~pre04~
 
-* Assignment
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
 
-There is no assignment for submission for this section.
+| Chapter/section | Exercise | Filename       |
+|-----------------+----------+----------------|
+|            4.12 | 1,2,3    | See note below |
+|            4.12 | 5        | Beer.java      |
+
+** Note:
+
+For exerrcises 1,2, and 3 either type up your
+answer in a file named answer.txt or write it by hand and scan it into
+answer.pdf. Add the file to a folder named ~pre04~ in the assignments
+repo and push to GitHub.
+

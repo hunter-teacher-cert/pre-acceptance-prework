@@ -1,26 +1,14 @@
 * Assignment 1
 
-Link to assignment walkthrough video: [[https://youtu.be/Owqp3MIZG9E][link]] 
-
-* First time only setup
-
-- Accept this GitHub assignment by following
-  this [[https://classroom.github.com/a/BKJdJVBT][link]].
+Link to assignment walkthrough video: 
 
 
-Once finished, click on the repo link (or go to your GitHub account
-and then to this new repo). clone by doing the following (you may have already done this by following the video and instructions on the main page) :
-
-1. Log in to [[https://repl.it][repl.it]] using GitHub (see material and video on main page if you need assistance)
-2. click on the *+ create repl" button
-3. click on the *import from GitHub* button
-4. Type in the full name of your repo (something like hunter-teacher-cert/applicants-prework-for-cohort-3-githubusername)
 
 
 * Every time you work
 
 1. Log into repl.it using GitHUb
-2. Open this repl
+2. Open the repl you linked to the prework on GitHub.
 3. click on the version control button and if it says you need updates from GitHub, click the button
 
 
