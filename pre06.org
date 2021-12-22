@@ -11,6 +11,9 @@ References for this assignment:
 
 Read Chapter 7 of Think Java.
 
+Short example video: [[https://www.youtube.com/watch?v=h5ofkIw-sCs&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=7][link]]
+
+
 Java has loops that are very similar to Javascript. The Java while
 loop is essentially the same as the Python while loop but the for loop
 is a little different. The differences are outlined below:
@@ -84,6 +87,26 @@ Java also supports a do while but it's used less frequently. The
 chapter will go over the details.
 
 
+* For submission
+Place all of these in a folder named ~pre06~
+
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
+
+| Chapter/section | Exercise | Filename       |
+|-----------------+----------+----------------|
+|             7.9 |        1 | See note below |
+|             7.9 |    2,3,4 | See Note       |
+| 
+** Note:
+
+Complete exercise 1 from Chapter 4 of Think Java. Either type up your
+answer in a file named answer.txt or write it by hand and scan it into
+answer.pdf. Add the file to a folder named ~pre03~ in the assignments
+repo and push to GitHub.
+
+For exercises 2,3, and 4 create a file named Loops.java and create
+methods for each exercise. Name them as you see fit. When the program
+is run, all the methods should be called and results printed out. 
 
 * Submission
 

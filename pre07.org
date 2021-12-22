@@ -13,6 +13,9 @@ References for this assignment:
 
 Read chapter 8 from the Think Java.
 
+Short example video: [[https://www.youtube.com/watch?v=UxtM5kZEzDE&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=8][link]] 
+
+
 Arrays in Java are similar to Arrays in Javascript or lists in
 Python. They are, however, more primatave.
 
@@ -34,10 +37,17 @@ access an array out of bounds say, a[-1] or a[5] in this case, you'll
 get an error. You also can't print it all in one shot like you can in
 Python or Java. The chapter has the rest of the details.
 
-* Submission
+* For submission
+Place all of these in a folder named ~pre03~
 
-Create a directory named pre07 under your assignments repo. 
+All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
 
-Write a program named Arrays.java and in it solve exercises 1, 4 and 5
-from chapter 8 in Think Java.
+| Chapter/section | Exercise | Filename   |
+|-----------------+----------+------------|
+|            8.12 |        1 | Array.java |
+|            8.12 |        2 | See Note   |
+|            8.12 |        4 | Max.java   |
+|            8.12 |        5 | Seive.java |
+** Note:
 
+For exercise 2 write up your answers in a file named answers.txt.

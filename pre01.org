@@ -2,6 +2,9 @@
 
 Link to assignment walkthrough video: 
 
+*Note* - apologies for the sound quality - I was having recording
+issues but wanted to get this up quickly. It's under 10 minutes so it
+shouldn't be too bad.
 
 
 
@@ -13,6 +16,8 @@ Link to assignment walkthrough video:
 
 
 * Assignment
+
+Video runthrough: [[https://www.youtube.com/watch?v=AKpjQZd7c30&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=2][Link]]
 
 1. Click on the *new folder* icon from the file tree section of repl and add a folder named *pre01*
 2. Click on that folder and create a new file under it named *Hello.Java*

@@ -6,6 +6,9 @@ References for this assignment:
 | [[https://books.trinket.io/thinkjava/][Think Java]]       | 6          |
 | [[https://introcs.cs.princeton.edu/java/10elements/][Sedgwick / Wayne]] | 2.1,2.2    |
 
+Read Chapter 6 in Think Java
+
+Short example video: [[https://www.youtube.com/watch?v=cZSiNpfqxbs&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=6][link]]
 
 Earlier we looked at the anatomy of a method:
 

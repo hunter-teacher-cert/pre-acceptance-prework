@@ -8,7 +8,7 @@ References for this assignment:
 | [[https://chortle.ccsu.edu/Java5/index.html#03][Kjell]]            | 8 - 11        |
 
 
-Read chapters 2 and three from [[https://books.trinket.io/thinkjava][Think Java]].
+Read chapters 2 and 3 and three from [[https://books.trinket.io/thinkjava][Think Java]].
 
 This video covers a subset of the material in the chapter but may be
 helpful: [[https://www.youtube.com/watch?v=l6Q6BVfnCI0&list=PL9KxKa8NpFxJQG8NhHYHIdRBQbn0PH5qV&index=2][link]]

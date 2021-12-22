@@ -1,8 +1,3 @@
-* IMPORTANT UPDATE 
-
-We are updating the prework for Summer 2022. The new prework will be abailabe in early January.
-
-In the meantime, feel free to take a look at this (the old version) - the new prework will be very similar so looking this over will give you an idea as to what you'll be expected to do and will also be a great start.
 
 
 * Pre Acceptance Pre Work
@@ -20,8 +15,8 @@ getting started with the prework.
 
 Additionally, if you have never programmed in a text based language like Java, we *strongly* recommend participating in our pre-application workshops. 
 
+[[https://www.youtube.com/watch?v=io-JbjGXCf0&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=1][Setup Video]]
 
-[[https://www.youtube.com/watch?v=jMpuAK4YCbQ][Setup Video]]
 
 The above video covers these steps.
 
@@ -40,7 +35,7 @@ The above video covers these steps.
   3. Click on the *Import from GitHub* button on the upper left of the
      dialog.
   4. Type in the full GitHub repo name (it should be
-     hunter-teacher-cert/applicants-prework-for-cohort-3-githubname or
+     hunter-teacher-cert/cohort-3-prework-githubname or
      something similar) and click the *+ import from GitHub button
 4. After a minute you should see that you have a repl that is linked
    to your GitHub repo. 

@@ -9,8 +9,15 @@ References for this assignment:
 
 Read chapter 5 in Think Java.
 
+Short example Video: [[https://www.youtube.com/watch?v=Wb0edysSxfA&list=PL9KxKa8NpFxJF3PmYcixDqBv28Sqi0q6o&index=5][link]]
+
+*NOTE:* I accidentally used pre05 as the folder name in the video. The
+folder name should be pre04 as indicated in the actual assignment
+below.
+
+
 This section covers conditionals. Java *if* statements look
-pretty much the same as those in Javascript 
+pretty much the same as those in Javascript
 
 * Conditionals
 
@@ -66,7 +73,7 @@ All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
 
 ** Note:
 
-For exerrcises 1,2, and 3 either type up your
+For exercises 1,2, and 3 either type up your
 answer in a file named answer.txt or write it by hand and scan it into
 answer.pdf. Add the file to a folder named ~pre04~ in the assignments
 repo and push to GitHub.
