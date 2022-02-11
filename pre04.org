@@ -68,8 +68,8 @@ All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
 
 | Chapter/section | Exercise | Filename       |
 |-----------------+----------+----------------|
-|            4.12 | 1,2,3    | See note below |
-|            4.12 | 5        | Beer.java      |
+|            5.12 | 1,2,3    | See note below |
+|            5.12 | 5        | Beer.java      |
 
 ** Note:
 
