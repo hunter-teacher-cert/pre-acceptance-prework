@@ -99,7 +99,7 @@ All book references are for [[https://books.trinket.io/thinkjava][Think Java]].
 | 
 ** Note:
 
-Complete exercise 1 from Chapter 4 of Think Java. Either type up your
+Complete exercise 1 from Chapter 7.9 of Think Java. Either type up your
 answer in a file named answer.txt or write it by hand and scan it into
 answer.pdf. Add the file to a folder named ~pre03~ in the assignments
 repo and push to GitHub.
